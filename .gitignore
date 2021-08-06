@@ -1,0 +1,4 @@
+mysite/__pycache__
+mysite/controllers/__pycache__
+mysite/crudusers/__pycache__
+mysite/crudusers/migrations/__pycache__
